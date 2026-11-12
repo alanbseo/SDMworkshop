@@ -12,11 +12,11 @@ This repository provides a self-contained hands-on workshop package including **
 
 | Step | Focus | Core Ecological Topic | Notebook Section & Slides |
 | :--- | :--- | :--- | :--- |
-| **Introduction** | **From Species Niches to Interactions** | Multi-scale scope (species, interactions, communities) & workflow | Overview (`Slides 1–2`) |
-| **Step 1** | **Ecological Niches & Drivers** | 5 orders, 12 functional groups (**FG01–FG12**), presence-only (PO) & presence–background (PB) calibration, & 22 predictors | `Step 1-A / 1-B` (`Slides 3–12`) |
-| **Step 2** | **SDM & Climate Change** | Regularized presence–background (PB) SDM, spatial block CV, GBIF+NES `Bio5` cutoffs, & 2050 shifts | `Step 2-A / 2-B` (`Slides 13–24`) |
-| **Step 3** | **Plant–Pollinator Coupling** | Spatial mismatch regimes (Schweiger et al., 2008; Briggs & Anderson, 2026), community refugia (`29.9%` vs. `15.2%`), & interaction risk (Peng et al., 2025) | `Step 3` (`Slides 25–29`) |
-| **Step 4** | **Community Turnover & Synthesis** | SSDM vs. GDM paradigms, monotonic I-splines, Baselga $\beta_{\text{sim}}$ / $\beta_{\text{sne}}$ partitioning, caveats, & synthesis | `Step 4-A / 4-B` & `Key Findings` (`Slides 30–41`) |
+| **Introduction** | **From Species Niches to Interactions** | Multi-scale scope (species, interactions, communities), workflow, & hands-on access guide | Overview & Access Guide (`Slides 1–3`) |
+| **Step 1** | **Ecological Niches & Drivers** | 5 orders, 12 functional groups (**FG01–FG12**), presence-only (PO) & presence–background (PB) calibration, & 22 predictors | `Step 1-A / 1-B` (`Slides 4–13`) |
+| **Step 2** | **SDM & Climate Change** | Regularized presence–background (PB) SDM, spatial block CV, GBIF+NES `Bio5` cutoffs, & 2050 shifts | `Step 2-A / 2-B` (`Slides 14–25`) |
+| **Step 3** | **Plant–Pollinator Coupling** | Spatial mismatch regimes (Schweiger et al., 2008; Briggs & Anderson, 2026), community refugia (`29.9%` vs. `15.2%`), & interaction risk (Peng et al., 2025) | `Step 3` (`Slides 26–30`) |
+| **Step 4** | **Community Turnover & Synthesis** | SSDM vs. GDM paradigms, monotonic I-splines, Baselga $\beta_{\text{sim}}$ / $\beta_{\text{sne}}$ partitioning, caveats, & synthesis | `Step 4-A / 4-B` & `Key Findings` (`Slides 31–42`) |
 
 ---
 
@@ -27,7 +27,7 @@ SDMworkshop/
 ├── README.md                                  # Workshop guide & slide-notebook mapping
 ├── requirements.txt                           # Python dependencies for local execution
 ├── binder/                                    # MyBinder / repo2docker environment config (Python 3.11 + NanumGothic)
-├── SDM_HandsOn_Slides.pdf                     # 41-slide lecture & hands-on deck
+├── SDM_HandsOn_Slides.pdf                     # 42-slide lecture & hands-on deck
 ├── SDM_HandsOn_Workshop_KO.ipynb              # Interactive Jupyter Notebook (Korean, line-by-line comments)
 ├── data/                                      # Curated 1 km grid dataset (84,576 inland cells, EPSG:5186)
 │   ├── PA_Pollinators_By_Order_1km.csv        # [SDM] Presence-only (PO) records across 5 insect orders
