@@ -1,0 +1,8 @@
+#!/bin/bash
+# Limit BLAS/OpenMP threads to avoid CPU thrashing on 1-2 vCPU MyBinder pods
+export OMP_NUM_THREADS=1
+export OPENBLAS_NUM_THREADS=1
+export MKL_NUM_THREADS=1
+export NUMEXPR_NUM_THREADS=1
+
+exec "$@"

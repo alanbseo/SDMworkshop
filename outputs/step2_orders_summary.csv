@@ -1,0 +1,6 @@
+﻿Order,Presence_Cells,AUC,TSS,Upper_Thermal_Limit_C,Area_2020_km2,Biodiv_SSP126_Change_pct,BAU_SSP585_Change_pct,BAU_Elev_Shift_m,BAU_North_Shift_km,Top_Drivers
+Hymenoptera,2719,0.621,0.195,36.5,52822,-4.3,-23.9,40.8,16.7,"Land-Cover Diversity (H')(16.4%), Forest-Open Edge (km/km²)(13.8%)"
+Diptera,2782,0.62,0.18,34.68,50581,-4.9,-30.4,57.3,25.7,"Forest-Open Edge (km/km²)(16.1%), Land-Cover Diversity (H')(11.9%)"
+Hemiptera,2073,0.62,0.187,33.93,47498,-34.4,-29.8,91.5,42.8,"Land-Cover Diversity (H')(13.7%), Solar Radiation (MJ/m²/d)(12.6%)"
+Lepidoptera,972,0.645,0.218,36.21,51332,5.2,-25.1,37.0,12.0,"Land-Cover Diversity (H')(13.0%), Forest-Open Edge (km/km²)(10.5%)"
+Coleoptera,782,0.642,0.21,33.17,53089,-20.3,-55.7,136.5,48.2,"Forest-Open Edge (km/km²)(16.4%), Forest Fraction (100m)(12.0%)"

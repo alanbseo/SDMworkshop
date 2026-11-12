@@ -1,0 +1,7 @@
+﻿Scope,Valid_Cells_S_ge_5,Low_Baseline_lt5_Cells,Refugia_pct,Pollinator_Deficit_pct,Floral_Host_Deficit_pct,Dual_Loss_pct
+National (Biodiversity-SSP126),76575,8001,29.9,18.3,24.6,27.1
+National (BAU-SSP585),76575,8001,15.2,8.9,34.1,41.8
+BAU-SSP585 <200 m Lowland,32589,7379,2.2,9.7,21.8,66.3
+BAU-SSP585 200–500 m Lower Slopes,28894,615,7.9,9.2,51.1,31.8
+BAU-SSP585 500–800 m Mid-Elev,10653,7,44.2,7.5,38.0,10.3
+BAU-SSP585 ≥800 m Highland,4439,0,88.3,5.2,3.9,2.6

@@ -1,0 +1,11 @@
+﻿Scenario,Elevation_Band,Richness_2020,Richness_2050,Richness_Delta,GDM_Turnover_dGDM,Baselga_Total_BetaSor,Pure_Turnover_BetaSim,Nested_Loss_BetaSne,Nested_Loss_Share_pct
+Biodiversity-SSP126,National Total,57.9,42.5,-15.4,0.105,0.322,0.117,0.205,63.7
+Biodiversity-SSP126,Lowland (<200m),45.2,27.7,-17.5,0.134,0.439,0.14,0.299,68.1
+Biodiversity-SSP126,Lower Slopes (200-500m),77.5,60.0,-17.5,0.082,0.236,0.093,0.142,60.4
+Biodiversity-SSP126,Mid-Elev (500-800m),60.6,52.6,-8.1,0.07,0.193,0.103,0.09,46.7
+Biodiversity-SSP126,Highland (>=800m),36.3,36.0,-0.3,0.081,0.162,0.101,0.061,37.6
+BAU-SSP585,National Total,57.9,32.2,-25.8,0.157,0.543,0.113,0.429,79.1
+BAU-SSP585,Lowland (<200m),45.2,11.4,-33.8,0.223,0.751,0.111,0.64,85.2
+BAU-SSP585,Lower Slopes (200-500m),77.5,47.8,-29.7,0.098,0.404,0.101,0.303,75.0
+BAU-SSP585,Mid-Elev (500-800m),60.6,61.9,1.3,0.086,0.255,0.134,0.121,47.6
+BAU-SSP585,Highland (>=800m),36.3,44.3,8.1,0.121,0.28,0.167,0.113,40.3

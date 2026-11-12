@@ -1,0 +1,13 @@
+﻿Code,Parent_Order,Subgroup,Presence_Cells,AUC,TSS,Upper_Thermal_Limit_C,Area_2020_km2,Biodiv_SSP126_Change_pct,BAU_SSP585_Change_pct,BAU_Elev_Shift_m,BAU_North_Shift_km,Top_Drivers
+FG03,Hymenoptera,Bombus,927,0.628,0.199,33.41,43201,-14.9,-51.2,80.9,31.3,"Forest-Open Edge (km/km²)(12.8%), Solar Radiation (MJ/m²/d)(11.5%)"
+FG04,Hymenoptera,Apis,2352,0.625,0.199,41.53,54100,-6.3,-23.2,39.5,16.7,"Land-Cover Diversity (H')(18.1%), Forest-Open Edge (km/km²)(13.1%)"
+FG05,Hymenoptera,Other Apidae,1343,0.641,0.214,35.05,45603,-22.5,-26.6,32.4,16.1,"Land-Cover Diversity (H')(11.7%), Forest Fraction (100m)(11.3%)"
+FG06,Hymenoptera,Solitary Bees,1158,0.623,0.19,33.41,53338,-23.1,-48.3,106.5,33.8,"Forest Fraction (100m)(12.0%), Mean Diurnal Range (°C)(10.9%)"
+FG01,Diptera,Syrphidae,2753,0.62,0.179,34.67,50667,-6.2,-30.9,57.5,26.6,"Forest-Open Edge (km/km²)(15.3%), Land-Cover Diversity (H')(12.4%)"
+FG02,Diptera,Bombyliidae,519,0.616,0.165,33.39,57951,-18.9,-50.7,139.1,38.3,"Solar Radiation (MJ/m²/d)(14.1%), Aridity Index(12.6%)"
+FG07,Hemiptera,Temperate Hemiptera,2025,0.621,0.191,33.41,47514,-41.5,-46.2,127.4,49.9,"Land-Cover Diversity (H')(13.6%), Solar Radiation (MJ/m²/d)(11.8%)"
+FG08,Hemiptera,Southern Largidae,124,0.777,0.405,35.86,12660,128.3,87.9,-1.2,24.3,"Precip of Wettest Month (mm)(12.7%), Relative Humidity (%)(9.7%)"
+FG09,Lepidoptera,Papilionidae,535,0.644,0.218,33.29,46597,-18.1,-50.9,67.6,17.8,"Urban Fraction (100m)(13.4%), Land-Cover Diversity (H')(9.4%)"
+FG10,Lepidoptera,Nymphalidae,421,0.68,0.278,35.12,46278,12.6,-19.4,33.4,17.9,"Forest Fraction (100m)(13.2%), Precip of Driest Month (mm)(8.5%)"
+FG11,Lepidoptera,Other Lepidoptera,296,0.62,0.189,37.74,36237,38.2,-26.3,15.7,1.1,"Land-Cover Diversity (H')(10.8%), Precip of Driest Month (mm)(9.0%)"
+FG12,Coleoptera,Cerambycidae,782,0.642,0.21,33.17,53089,-20.3,-55.7,136.5,48.2,"Forest-Open Edge (km/km²)(16.4%), Forest Fraction (100m)(12.0%)"

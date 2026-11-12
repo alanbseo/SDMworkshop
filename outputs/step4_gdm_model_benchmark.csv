@@ -1,0 +1,5 @@
+﻿Model_Regime,Sample_Sites,Median_Richness,Mean_Dissimilarity,Saturated_d1_pct,Intercept_b0,Deviance_Explained_pct,Pearson_r,Top_Drivers
+"1. Raw Insect Incidence (1 km PO, S>=1)",4523,4.0,0.836,45.5,1.634,0.81,0.092,"Precip of Wettest Month(38.0%), Elevation(24.8%)"
+"2. Filtered Insect Incidence (1 km PO, S>=10 Weighted)",1090,14.0,0.623,1.0,0.819,2.23,0.149,"Mean Diurnal Range(25.9%), Elevation(18.6%)"
+"3. Terrestrial Plant Incidence (1 km PO, S>=5 Weighted)",854,7.0,0.931,63.9,1.296,37.04,0.505,"Annual Mean Temp(27.1%), Elevation(19.7%)"
+4. GDM on SSDM Assemblages (139 spp. Stacked),2000,51.9,0.407,1.0,0.086,73.7,0.871,"Urban Fraction(16.1%), Elevation(11.2%)"

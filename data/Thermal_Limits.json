@@ -1,0 +1,123 @@
+{
+  "orders": {
+    "벌목": {
+      "hot_limit_C": 36.5,
+      "cold_limit_C": -27.1
+    },
+    "파리목": {
+      "hot_limit_C": 34.68,
+      "cold_limit_C": -21.14
+    },
+    "나비목": {
+      "hot_limit_C": 36.21,
+      "cold_limit_C": -31.52
+    },
+    "노린재목": {
+      "hot_limit_C": 33.93,
+      "cold_limit_C": -21.63
+    },
+    "딱정벌레목": {
+      "hot_limit_C": 33.17,
+      "cold_limit_C": -24.35
+    }
+  },
+  "subgroups": {
+    "꽃등에과": {
+      "code": "FG01",
+      "hot_limit_C": 34.67,
+      "cold_limit_C": -21.14
+    },
+    "재니등에과": {
+      "code": "FG02",
+      "hot_limit_C": 33.39,
+      "cold_limit_C": -21.14
+    },
+    "뒤영벌속": {
+      "code": "FG03",
+      "hot_limit_C": 33.41,
+      "cold_limit_C": -28.5
+    },
+    "꿀벌속": {
+      "code": "FG04",
+      "hot_limit_C": 41.53,
+      "cold_limit_C": -25.0
+    },
+    "기타 야생꿀벌과": {
+      "code": "FG05",
+      "hot_limit_C": 35.05,
+      "cold_limit_C": -25.0
+    },
+    "단독성 야생벌류": {
+      "code": "FG06",
+      "hot_limit_C": 33.41,
+      "cold_limit_C": -26.25
+    },
+    "온대 노린재류": {
+      "code": "FG07",
+      "hot_limit_C": 33.41,
+      "cold_limit_C": -23.33
+    },
+    "큰별노린재과": {
+      "code": "FG08",
+      "hot_limit_C": 35.86,
+      "cold_limit_C": -13.96
+    },
+    "호랑나비과": {
+      "code": "FG09",
+      "hot_limit_C": 33.29,
+      "cold_limit_C": -28.0
+    },
+    "네발나비과": {
+      "code": "FG10",
+      "hot_limit_C": 35.12,
+      "cold_limit_C": -29.0
+    },
+    "기타 나비·나방류": {
+      "code": "FG11",
+      "hot_limit_C": 37.74,
+      "cold_limit_C": -31.52
+    },
+    "하늘소과": {
+      "code": "FG12",
+      "hot_limit_C": 33.17,
+      "cold_limit_C": -24.35
+    },
+    "기타야생벌": {
+      "code": "FG06",
+      "hot_limit_C": 33.41,
+      "cold_limit_C": -26.25
+    },
+    "온대노린재류": {
+      "code": "FG07",
+      "hot_limit_C": 33.41,
+      "cold_limit_C": -23.33
+    },
+    "큰별노린재과(남방계)": {
+      "code": "FG08",
+      "hot_limit_C": 35.86,
+      "cold_limit_C": -13.96
+    }
+  },
+  "plants": {
+    "초지·습초지 식물군": {
+      "hot_limit_C": 33.58,
+      "cold_limit_C": -30.5
+    },
+    "산림성 식물군": {
+      "hot_limit_C": 33.37,
+      "cold_limit_C": -29.17
+    },
+    "봄철·목본 핵심 밀원군": {
+      "hot_limit_C": 35.63,
+      "cold_limit_C": -18.39
+    },
+    "초지 국화과·산형과 밀원군": {
+      "hot_limit_C": 35.61,
+      "cold_limit_C": -18.42
+    },
+    "콩과·제비꽃 기주·밀원군": {
+      "hot_limit_C": 35.62,
+      "cold_limit_C": -18.38
+    }
+  }
+}

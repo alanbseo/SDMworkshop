@@ -1,0 +1,13 @@
+#!/bin/bash
+set -euo pipefail
+
+# Refresh system font cache and pre-build matplotlib fontlist cache for NanumGothic
+fc-cache -fv >/dev/null 2>&1 || true
+rm -rf "${HOME}/.cache/matplotlib"
+
+python - <<'PY'
+import matplotlib.font_manager as fm
+nanum = sorted({f.name for f in fm.fontManager.ttflist if "Nanum" in f.name})
+print("Registered Nanum fonts:", nanum)
+assert "NanumGothic" in nanum, f"NanumGothic not found: {nanum}"
+PY

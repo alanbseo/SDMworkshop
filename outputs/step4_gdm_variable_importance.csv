@@ -1,0 +1,24 @@
+﻿Variable,Label,Domain,SDM_FG_Mean_pct,GDM_Poll_SSDM_Height,GDM_Poll_SSDM_Env_pct,GDM_Poll_ObsS10_Env_pct,GDM_Plant_ObsS5_Height,GDM_Plant_ObsS5_Env_pct
+bioclim1,Annual Mean Temp (°C),Temp & Precip (5),5.18,0.607736233462886,10.71,0.0,1.0754418291944337,27.11
+bioclim2,Mean Diurnal Range (°C),Temp & Precip (5),3.55,0.1931155978174935,3.4,25.9,0.18717602339466044,4.72
+bioclim3,Isothermality (%),Temp & Precip (5),3.24,0.10461791062509815,1.84,3.7,0.3325700901346843,8.38
+bioclim13,Precip of Wettest Month (mm),Temp & Precip (5),3.99,0.45479896378723456,8.01,0.0,0.0,0.0
+bioclim14,Precip of Driest Month (mm),Temp & Precip (5),5.83,0.06617310977298917,1.17,1.58,0.03133003950042821,0.79
+solarradiation,Solar Radiation (MJ/m²/d),"Solar, RH & VPD (3)",7.32,0.0884018617140027,1.56,0.0,0.0,0.0
+relative_humidity,Relative Humidity (%),"Solar, RH & VPD (3)",4.05,0.05441157432417158,0.96,15.16,0.37378628421489135,9.42
+VPD,Vapor Pressure Deficit (hPa),"Solar, RH & VPD (3)",3.87,0.3701453397349457,6.52,8.57,0.0,0.0
+AI,Aridity Index,Water Balance (3),5.96,0.24502739751293173,4.32,0.0,0.14587575586147877,3.68
+WB_spr,Spring Water Balance (mm),Water Balance (3),4.73,0.19731096266604067,3.48,4.23,0.0,0.0
+CWD,Climatic Water Deficit (mm),Water Balance (3),3.2,0.4585963098689746,8.08,1.74,0.0,0.0
+elevation,Elevation (m),Topo & Soil (5),6.54,0.6349707210549558,11.19,18.6,0.7806252557657256,19.68
+slope,Slope (°),Topo & Soil (5),2.33,0.09942537227009643,1.75,7.8,0.10154219823276638,2.56
+soildeep3,Effective Soil Depth,Topo & Soil (5),0.51,0.011952823042008119,0.21,1.29,0.031087439733320912,0.78
+soildra1,Soil Drainage,Topo & Soil (5),0.48,0.013341214778691168,0.24,0.0,0.030994322795669486,0.78
+soilstone,Soil Gravel Content,Topo & Soil (5),0.64,0.008895723488977814,0.16,0.0,0.0038316733771323478,0.1
+frac_0,Urban Fraction (100m),100 m Land Cover (6),4.45,0.9141208850121256,16.1,0.0,0.6075013363948947,15.32
+frac_1,Cropland Fraction (100m),100 m Land Cover (6),3.39,0.2976037398712614,5.24,0.0,0.07416111744106749,1.87
+frac_2,Forest Fraction (100m),100 m Land Cover (6),9.17,0.5446224043947597,9.59,3.93,0.0989922371339331,2.5
+frac_3,Grassland Fraction (100m),100 m Land Cover (6),2.65,0.0841089213759486,1.48,0.0,0.0,0.0
+edge_FO,Forest-Open Edge Density,100 m Land Cover (6),9.43,0.22740570142746838,4.01,7.48,0.0,0.0
+shannon,Land-Cover Diversity,100 m Land Cover (6),9.5,0.0,0.0,0.0,0.09137846541764881,2.3
+Geo_Distance,Geographic Distance (km),Spatial Distance,,0.2488,,,5.1921,
