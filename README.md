@@ -52,14 +52,6 @@ SDMworkshop/
 
 ## 3. Quick Start
 
-### 1) Run in Browser via MyBinder (Recommended — Zero Installation)
-Open `SDM_HandsOn_Workshop_KO.ipynb` directly in JupyterLab via MyBinder ([alanbseo/SDMworkshop](https://github.com/alanbseo/SDMworkshop)):
-```text
-https://mybinder.org/v2/gh/alanbseo/SDMworkshop/main?urlpath=lab/tree/SDM_HandsOn_Workshop_KO.ipynb
-```
-*(Note: MyBinder sessions are temporary and close after ~10 minutes of inactivity; right-click `SDM_HandsOn_Workshop_KO.ipynb` in the left file browser and choose **Download** before closing to save your outputs.)*
-
-### 2) Run Locally (JupyterLab / Jupyter Notebook)
 ```bash
 git clone https://github.com/alanbseo/SDMworkshop.git
 cd SDMworkshop
