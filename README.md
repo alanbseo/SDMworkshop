@@ -13,10 +13,10 @@ This repository provides a self-contained hands-on workshop package including **
 | Step | Focus | Core Ecological Topic | Notebook Section & Slides |
 | :--- | :--- | :--- | :--- |
 | **Introduction** | **From Species Niches to Interactions** | Multi-scale scope (species, interactions, communities), workflow, & hands-on access guide | Overview & Access Guide (`Slides 1–3`) |
-| **Step 1** | **Ecological Niches & Drivers** | 5 orders, 12 functional groups (**FG01–FG12**), presence-only (PO) & presence–background (PB) calibration, & 22 predictors | `Step 1-A / 1-B` (`Slides 4–14`) |
-| **Step 2** | **SDM & Climate Change** | Regularized presence–background (PB) SDM, spatial block CV, GBIF+NES `Bio5` cutoffs, & 2050 shifts | `Step 2-A / 2-B` (`Slides 15–26`) |
-| **Step 3** | **Plant–Pollinator Coupling** | Spatial mismatch regimes (Schweiger et al., 2008; Briggs & Anderson, 2026), community refugia (`29.9%` vs. `15.2%`), & interaction risk (Peng et al., 2025) | `Step 3` (`Slides 27–31`) |
-| **Step 4** | **Community Turnover & Synthesis** | SSDM vs. GDM paradigms, monotonic I-splines, Baselga $\beta_{\text{sim}}$ / $\beta_{\text{sne}}$ partitioning, caveats, & synthesis | `Step 4-A / 4-B` & `Key Findings` (`Slides 32–43`) |
+| **Step 1** | **Ecological Niches & Drivers** | 5 orders, 12 functional groups (**FG01–FG12**), presence-only (PO) & presence–background (PB) calibration, & 22 predictors | `Step 1-A / 1-B` (`Slides 4–15`) |
+| **Step 2** | **SDM & Climate Change** | Regularized presence–background (PB) SDM, spatial block CV, GBIF+NES `Bio5` cutoffs, & 2050 shifts | `Step 2-A / 2-B` (`Slides 16–27`) |
+| **Step 3** | **Plant–Pollinator Coupling** | Spatial mismatch regimes (Schweiger et al., 2008; Briggs & Anderson, 2026), community refugia (`29.9%` vs. `15.2%`), & interaction risk (Peng et al., 2025) | `Step 3` (`Slides 28–32`) |
+| **Step 4** | **Community Turnover & Synthesis** | SSDM vs. GDM paradigms, monotonic I-splines, Baselga $\beta_{\text{sim}}$ / $\beta_{\text{sne}}$ partitioning, caveats, & synthesis | `Step 4-A / 4-B` & `Key Findings` (`Slides 33–43`) |
 
 ---
 
