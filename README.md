@@ -27,7 +27,7 @@ SDMworkshop/
 ├── README.md                                  # Workshop guide & slide-notebook mapping
 ├── requirements.txt                           # Python dependencies for local execution
 ├── binder/                                    # MyBinder / repo2docker environment config (Python 3.11 + NanumGothic)
-├── SDM_HandsOn_Slides.pdf                     # 45-slide lecture & hands-on deck
+├── SDM_HandsOn_Slides.pdf                     # 46-slide lecture & hands-on deck
 ├── SDM_HandsOn_Workshop_KO.ipynb              # Interactive Jupyter Notebook (Korean)
 ├── data/                                      # Curated 1 km grid dataset (84,576 inland cells, EPSG:5186)
 │   ├── PA_Pollinators_By_Order_1km.csv        # [SDM] Presence-only (PO) records across 5 insect orders
