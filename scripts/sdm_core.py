@@ -6,7 +6,7 @@ Shared core engine for the Pollinator Niches, Plant-Pollinator Coupling, and Com
 
 Modules & Capabilities:
 - Data I/O: 1 km presence-only (PO) occurrence tables (`PA_*.csv` filenames retained for compatibility),
-  environmental GeoTIFF stacks, and realized upper/lower climatic niche cutoffs (`Bio5`/`Bio6`; Araujo et al., 2013)
+  environmental GeoTIFF stacks, and realized upper/lower climatic niche cutoffs (`Bio5`/`Bio6`; cf. conserved upper heat tolerance in Araujo et al., 2013)
 - Step 2 (Presence-Background SDM): Standardized MaxEnt-style Linear + Quadratic + Hinge basis expansion
   (Phillips & Dudik, 2008; Elith et al., 2011), prevalence-balanced L1/L2-regularized logistic estimation
   (cf. Renner & Warton, 2013), 50 km spatial block cross-validation (Roberts et al., 2017; AUC, TSS [Allouche et al., 2006]),
